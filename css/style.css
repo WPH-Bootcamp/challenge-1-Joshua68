@@ -1,1 +1,20 @@
-/* code here */
+/* Mengatur font seluruh halaman */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 20px;
+}
+/* Mengatur warna dan ukuran tag h1 */
+h1 {
+    color: #0c6ecf;
+    text-align: center;
+}
+h2 {
+    color: #069837;
+    text-align: center;
+}
+/* Mengatur warna dan ukuran teks paragraf */
+p {
+    color: #42078b;
+    line-height: 1.6;
+}
